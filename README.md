@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... PowerShell automation (or any automation in general), Python, Blockchain tech, Virtualization, Cloud Computing
 - 🌱 I’m currently learning ... Nutanix SRE/SE program, Blockchain building
 - 💞️ I’m looking to collaborate on ... Blockchain tech and Automation
-- 📫 How to reach me ... 
+- 📫 How to reach me ... @ 93665785+simondsaa@users.noreply.github.com
 
 <!---
 simondsaa/simondsaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
